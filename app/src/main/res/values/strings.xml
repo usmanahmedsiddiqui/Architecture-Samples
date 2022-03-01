@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Architecture Samples</string>
+    <string name="products">Products</string>
+    <string name="cart">Cart</string>
+    <string name="shop">Shop</string>
+    <string name="your_cart_is_empty">Your Cart is Empty</string>
+    <string name="shopping_cart">Shopping Cart</string>
+</resources>
